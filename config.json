@@ -1,66 +1,18 @@
 {   
     "bot1": {
-        "source": "repo_link",
-        "branch": "master",
+        "source": "https://github.com/extroverter-542/nico-chan-token.git",
+        "branch": "main",
         "env": {
-            "TOKEN": ""
+            "TG_BOT_TOKEN": "7668032543:AAEM9NVshDSQvhfuyIi9Qpti55w55Sa8xic"
         },
-        "run": "run.sh"
+        "run": "main.py"
     },
     "bot2": {
-        "source": "repo_link",
-        "branch": "master",
+        "source": "https://github.com/extroverter-542/boa-chan-token.git",
+        "branch": "main",
         "env": {
-            "TOKEN": ""
+            "TG_BOT_TOKEN": "8125157543:AAGJSheqlqIRZURwdxwmyPcOAB4VGlfstVc"
         },
-        "run": "run.sh"
-    },
-    "bot3": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot4": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot5": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot6": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot7": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot8": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
+        "run": "main.py"
     }
 }
