@@ -6,5 +6,13 @@
             "TG_BOT_TOKEN": "7387239953:AAEPoYNdZNWJ4eELPaYZs88DQcNueV-N7ls"
         },
         "run": "main.py"
+    }, 
+    "sanji": {
+        "source": "https://github.com/extroverter-542/nico-chan-token.git",
+        "branch": "main",
+        "env": {
+            "TG_BOT_TOKEN": "7668032543:AAEM9NVshDSQvhfuyIi9Qpti55w55Sa8xic"
+        },
+        "run": "main.py"
     }
 }
