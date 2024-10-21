@@ -7,11 +7,19 @@
         },
         "run": "main.py"
     }, 
-    "sanji": {
+    "nico": {
         "source": "https://github.com/extroverter-542/nico-chan-token.git",
         "branch": "main",
         "env": {
             "TG_BOT_TOKEN": "7668032543:AAEM9NVshDSQvhfuyIi9Qpti55w55Sa8xic"
+        },
+        "run": "main.py"
+    },
+    "boa": {
+        "source": "https://github.com/extroverter-542/boa-chan-token.git",
+        "branch": "main",
+        "env": {
+            "TG_BOT_TOKEN": "8125157543:AAGJSheqlqIRZURwdxwmyPcOAB4VGlfstVc"
         },
         "run": "main.py"
     }
