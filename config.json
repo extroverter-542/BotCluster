@@ -1,5 +1,5 @@
 {   
-    "bot1": {
+    "sanji": {
         "source": "https://github.com/extroverter-542/nico-chan-token.git",
         "branch": "main",
         "env": {
@@ -7,11 +7,11 @@
         },
         "run": "main.py"
     },
-    "bot2": {
-        "source": "https://github.com/extroverter-542/boa-chan-token.git",
+    "ryuma": {
+        "source": "https://github.com/PraleyDev/LaraChan_bot.git",
         "branch": "main",
         "env": {
-            "TG_BOT_TOKEN": "8125157543:AAGJSheqlqIRZURwdxwmyPcOAB4VGlfstVc"
+            "TG_BOT_TOKEN": "7387239953:AAEPoYNdZNWJ4eELPaYZs88DQcNueV-N7ls"
         },
         "run": "main.py"
     }
