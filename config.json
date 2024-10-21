@@ -1,12 +1,4 @@
 {   
-    "sanji": {
-        "source": "https://github.com/extroverter-542/nico-chan-token.git",
-        "branch": "main",
-        "env": {
-            "TG_BOT_TOKEN": "7668032543:AAEM9NVshDSQvhfuyIi9Qpti55w55Sa8xic"
-        },
-        "run": "main.py"
-    },
     "ryuma": {
         "source": "https://github.com/PraleyDev/LaraChan_bot.git",
         "branch": "main",
